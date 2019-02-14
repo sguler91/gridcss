@@ -20,7 +20,8 @@ progress,sub,sup {
 
 .xl-flexbox,.xl-table {
   -webkit-column-count: auto;
-  -moz-column-count: auto
+  -moz-column-count: auto;
+  column-count: auto
 }
 
 .wrap,.xl-left {
